@@ -3,7 +3,6 @@ require_relative './exercise_1'
 require_relative './exercise_2'
 require_relative './exercise_3'
 
-puts `clear`
 puts "Exercise 4"
 puts "----------"
 
